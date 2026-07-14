@@ -27,8 +27,6 @@
     <rect x="28" y="28" width="410" height="554" rx="28" fill="rgba(15,23,42,.70)" stroke="rgba(255,255,255,.08)"/>
     <rect x="28" y="28" width="410" height="554" rx="28" fill="url(#accent)" opacity="0.07"/>
     <g transform="translate(54 70)" filter="url(#textGlow)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">
-      <text fill="#22D3EE" opacity="0.95"><tspan x="0" y="0">╭────────────────────╮</tspan><tspan x="0" y="24">│  // mostaficnahid  │</tspan><tspan x="0" y="48">│  /\_/\    /\     │</tspan><tspan x="0" y="72">│ ( •.• )  /  \     │</tspan><tspan x="0" y="96">│  /   \  /____\    │</tspan><tspan x="0" y="120">│  premium profile  │</tspan><tspan x="0" y="144">╰────────────────────╯</tspan></text>
-      <text fill="url(#accent)"><tspan x="0" y="0">╭────────────────────╮</tspan><tspan x="0" y="24">│  // mostaficnahid  │</tspan><tspan x="0" y="48">│  /\_/\    /\     │</tspan><tspan x="0" y="72">│ ( •.• )  /  \     │</tspan><tspan x="0" y="96">│  /   \  /____\    │</tspan><tspan x="0" y="120">│  premium profile  │</tspan><tspan x="0" y="144">╰────────────────────╯</tspan></text>
     </g>
     <rect x="56" y="262" width="330" height="1" fill="rgba(255,255,255,.12)"/>
     <g opacity="0.8" font-family="ui-monospace, monospace" font-size="13" fill="#94A3B8"><text x="60" y="295">// animated scanline</text><text x="60" y="318">// floating glow</text><text x="60" y="341">// responsive svg</text></g>
